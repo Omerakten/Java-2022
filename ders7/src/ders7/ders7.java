@@ -7,7 +7,7 @@ public class ders7 {
 		double sayi2=15.5;
 		byte sayi3=100;
 		short sayi4=30000;
-		long sayi5=500000000;
+		long sayi5=999999999;
 		float sayi6=15.5f;
 		boolean dogru=false;
 		char karakter='E';
