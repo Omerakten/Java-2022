@@ -1,0 +1,16 @@
+package Classes;
+
+public class CustomerManager {
+	
+	public void Add() {
+		System.out.println("müþteri eklendi");
+	}
+	public void Remove() {
+		System.out.println("Müþteri silindi");
+		
+	}
+	public void Update() {
+		System.out.println("Müþteri güncellendi");
+		
+	}
+}
